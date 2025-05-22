@@ -6,5 +6,7 @@ Uma fábrica de componentes eletrônicos precisa garantir a disponibilidade de e
 Agora, além do controle de Pedidos e Estoque , o sistema
 
 .Fornecedores Para rastrear quem fornece os produtos
+
 .Clientes Para armazenar informações sobre compradores
+
 .Histórico de Pedidos Para manter registros completos dastransações
