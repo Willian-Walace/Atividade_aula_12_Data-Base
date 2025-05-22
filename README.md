@@ -3,7 +3,7 @@
 Uma fábrica de componentes eletrônicos precisa garantir a disponibilidade de estoque antes de confirmar pedidos.
 
 
-Agora, além do controle de Pedidos e Estoque , o sistema
+Agora, além do controle de Pedidos e Estoque , o sistema terá:
 
 .Fornecedores Para rastrear quem fornece os produtos
 
